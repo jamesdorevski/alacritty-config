@@ -3,7 +3,7 @@ window:
 
 font:
   normal:
-    family: Hack
+    family: AzeretMono
   size: 6
 
 # TokyoNight Alacritty Colors
